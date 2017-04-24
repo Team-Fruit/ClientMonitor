@@ -1,0 +1,15 @@
+# Config
+clientmonitor.config.name=ClientMonitor設定
+
+# Notification
+clientmonitor.config.notification=通知
+clientmonitor.config.notification.chat=チャット通知
+clientmonitor.config.notification.overlay=テキストオーバーレイ通知
+clientmonitor.config.notification.effect=フラッシュエフェクト通知
+clientmonitor.config.notification.sound=効果音通知
+clientmonitor.notification.chat.screenshot.message=§dサーバーからスクリーンショットが要求されました。
+clientmonitor.notification.chat.screenshot.message.mode=§d現在の返答モードは§r「%s」§dです。
+clientmonitor.notification.chat.modlist.message=§dサーバーからModリストが要求されました。
+clientmonitor.notification.chat.modlist.message.mode=§d現在の返答モードは§r「%s」§dです。
+clientmonitor.notification.overlay.screenshot.message=§c[警告] §dサーバーからスクリーンショットが要求されました。
+clientmonitor.notification.overlay.modlist.message=§c[警告] §dサーバーからModリストが要求されました。

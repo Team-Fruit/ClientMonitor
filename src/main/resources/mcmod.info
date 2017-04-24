@@ -1,0 +1,26 @@
+{
+	"modListVersion": 2,
+	"modList": [
+		{
+			"modid": "clientmonitor",
+			"name": "Client Monitor",
+			"description": "Server utility to watch client information to prevent from cheating",
+			"mcversion": "${mcversion}",
+			"version": "${version}",
+			"authorList": [
+				"Kamesuta",
+				"kokoa0429"
+			],
+			"credits": "2017 TeamFruit",
+			"dependants": [],
+			"dependencies": ["Forge"],
+			"parent": "",
+			"requiredMods": ["Forge"],
+			"logoFile": "assets/clientmonitor/textures/logo.png",
+			"screenshots": [],
+			"updateUrl": "https://github.com/Team-Fruit/ClientMonitor/releases",
+			"url": "https://github.com/Team-Fruit/ClientMonitor/releases",
+			"useDependencyInformation": true
+		}
+	]
+}

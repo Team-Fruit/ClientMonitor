@@ -1,0 +1,15 @@
+# Config
+clientmonitor.config.name=ClientMonitor Settings
+
+# Notification
+clientmonitor.config.notification=Notifications
+clientmonitor.config.notification.chat=Chat Notify
+clientmonitor.config.notification.overlay=Overlay Text Notify
+clientmonitor.config.notification.effect=Flash Effect Notify
+clientmonitor.config.notification.sound=Sound Notify
+clientmonitor.notification.chat.screenshot.message=§dSending screenshot is requested from the server.
+clientmonitor.notification.chat.screenshot.message.mode=§dYour response mode is §r"%s"§d.
+clientmonitor.notification.chat.modlist.message=§dSending mod list is requested from the server.
+clientmonitor.notification.chat.modlist.message.mode=§dYour response mode is §r"%s"§d.
+clientmonitor.notification.overlay.screenshot.message=§c[WARNING] §dSending screenshot is requested from the server.
+clientmonitor.notification.overlay.modlist.message=§c[WARNING] §dSending mod list is requested from the server.
